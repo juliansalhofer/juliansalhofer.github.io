@@ -1,12 +1,341 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_pages\\teaching.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_pages\\teaching.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_pages\\about.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_pages\\about.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_data\\navigation.yml||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_data\\navigation.yml||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_config.yml||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_config.yml||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_pages\\projects.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_pages\\projects.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_pages\\talks.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_pages\\talks.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_pages\\publications.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_pages\\publications.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_publications\\2025-03-02-fragmenting-space-time-vr.md||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_publications\\2025-03-02-fragmenting-space-time-vr.md||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_publications\\2024-03-01-interactive-impulses-vr.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_publications\\2024-03-01-interactive-impulses-vr.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_publications\\2025-03-01-artistic-exploration-stop-motion-vr.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_publications\\2025-03-01-artistic-exploration-stop-motion-vr.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_publications\\2023-03-01-stop-motion-vr-spatialization.md||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_publications\\2023-03-01-stop-motion-vr-spatialization.md||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_publications\\2015-10-01-paper-title-number-3.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_publications\\2015-10-01-paper-title-number-3.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_publications\\2025-06-08-paper-title-number-5.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_publications\\2025-06-08-paper-title-number-5.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_publications\\2010-10-01-paper-title-number-2.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_publications\\2010-10-01-paper-title-number-2.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_publications\\2009-10-01-paper-title-number-1.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_publications\\2009-10-01-paper-title-number-1.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_publications\\2024-02-17-paper-title-number-4.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_publications\\2024-02-17-paper-title-number-4.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_layouts\\default.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_layouts\\default.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_teaching\\2014-spring-teaching-1.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_teaching\\2014-spring-teaching-1.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_teaching\\2015-spring-teaching-2.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_teaching\\2015-spring-teaching-2.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "navigation.yml",
+              "DocumentMoniker": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_data\\navigation.yml",
+              "RelativeDocumentMoniker": "_data\\navigation.yml",
+              "ToolTip": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_data\\navigation.yml",
+              "RelativeToolTip": "_data\\navigation.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-06-18T15:53:49.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "2024-03-01-interactive-impulses-vr.md",
+              "DocumentMoniker": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_publications\\2024-03-01-interactive-impulses-vr.md",
+              "RelativeDocumentMoniker": "_publications\\2024-03-01-interactive-impulses-vr.md",
+              "ToolTip": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_publications\\2024-03-01-interactive-impulses-vr.md",
+              "RelativeToolTip": "_publications\\2024-03-01-interactive-impulses-vr.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-18T15:22:27.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "projects.html",
+              "DocumentMoniker": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_pages\\projects.html",
+              "RelativeDocumentMoniker": "_pages\\projects.html",
+              "ToolTip": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_pages\\projects.html",
+              "RelativeToolTip": "_pages\\projects.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-06-18T15:18:18.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "2025-03-01-artistic-exploration-stop-motion-vr.md",
+              "DocumentMoniker": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_publications\\2025-03-01-artistic-exploration-stop-motion-vr.md",
+              "RelativeDocumentMoniker": "_publications\\2025-03-01-artistic-exploration-stop-motion-vr.md",
+              "ToolTip": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_publications\\2025-03-01-artistic-exploration-stop-motion-vr.md",
+              "RelativeToolTip": "_publications\\2025-03-01-artistic-exploration-stop-motion-vr.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-18T15:14:34.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "2025-03-02-fragmenting-space-time-vr.md",
+              "DocumentMoniker": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_publications\\2025-03-02-fragmenting-space-time-vr.md",
+              "RelativeDocumentMoniker": "_publications\\2025-03-02-fragmenting-space-time-vr.md",
+              "ToolTip": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_publications\\2025-03-02-fragmenting-space-time-vr.md",
+              "RelativeToolTip": "_publications\\2025-03-02-fragmenting-space-time-vr.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-18T15:13:17.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "talks.html",
+              "DocumentMoniker": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_pages\\talks.html",
+              "RelativeDocumentMoniker": "_pages\\talks.html",
+              "ToolTip": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_pages\\talks.html",
+              "RelativeToolTip": "_pages\\talks.html",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-06-17T08:38:18.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "teaching.html",
+              "DocumentMoniker": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_pages\\teaching.html",
+              "RelativeDocumentMoniker": "_pages\\teaching.html",
+              "ToolTip": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_pages\\teaching.html",
+              "RelativeToolTip": "_pages\\teaching.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-06-16T12:49:40.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "about.md",
+              "DocumentMoniker": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_pages\\about.md",
+              "RelativeDocumentMoniker": "_pages\\about.md",
+              "ToolTip": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_pages\\about.md",
+              "RelativeToolTip": "_pages\\about.md",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-16T12:02:08.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_config.yml",
+              "DocumentMoniker": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_config.yml",
+              "RelativeDocumentMoniker": "_config.yml",
+              "ToolTip": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_config.yml",
+              "RelativeToolTip": "_config.yml",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-06-16T11:31:38.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "publications.html",
+              "DocumentMoniker": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_pages\\publications.html",
+              "RelativeDocumentMoniker": "_pages\\publications.html",
+              "ToolTip": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_pages\\publications.html",
+              "RelativeToolTip": "_pages\\publications.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-06-18T14:41:33.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "2023-03-01-stop-motion-vr-spatialization.md",
+              "DocumentMoniker": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_publications\\2023-03-01-stop-motion-vr-spatialization.md",
+              "RelativeDocumentMoniker": "_publications\\2023-03-01-stop-motion-vr-spatialization.md",
+              "ToolTip": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_publications\\2023-03-01-stop-motion-vr-spatialization.md",
+              "RelativeToolTip": "_publications\\2023-03-01-stop-motion-vr-spatialization.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAADyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-18T15:23:03.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "2015-10-01-paper-title-number-3.md",
+              "DocumentMoniker": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_publications\\2015-10-01-paper-title-number-3.md",
+              "RelativeDocumentMoniker": "_publications\\2015-10-01-paper-title-number-3.md",
+              "ToolTip": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_publications\\2015-10-01-paper-title-number-3.md",
+              "RelativeToolTip": "_publications\\2015-10-01-paper-title-number-3.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-18T15:16:17.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "2025-06-08-paper-title-number-5.md",
+              "DocumentMoniker": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_publications\\2025-06-08-paper-title-number-5.md",
+              "RelativeDocumentMoniker": "_publications\\2025-06-08-paper-title-number-5.md",
+              "ToolTip": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_publications\\2025-06-08-paper-title-number-5.md",
+              "RelativeToolTip": "_publications\\2025-06-08-paper-title-number-5.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-18T15:17:04.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "2010-10-01-paper-title-number-2.md",
+              "DocumentMoniker": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_publications\\2010-10-01-paper-title-number-2.md",
+              "RelativeDocumentMoniker": "_publications\\2010-10-01-paper-title-number-2.md",
+              "ToolTip": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_publications\\2010-10-01-paper-title-number-2.md",
+              "RelativeToolTip": "_publications\\2010-10-01-paper-title-number-2.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-18T15:16:19.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "2024-02-17-paper-title-number-4.md",
+              "DocumentMoniker": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_publications\\2024-02-17-paper-title-number-4.md",
+              "RelativeDocumentMoniker": "_publications\\2024-02-17-paper-title-number-4.md",
+              "ToolTip": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_publications\\2024-02-17-paper-title-number-4.md",
+              "RelativeToolTip": "_publications\\2024-02-17-paper-title-number-4.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-18T14:43:22.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "2009-10-01-paper-title-number-1.md",
+              "DocumentMoniker": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_publications\\2009-10-01-paper-title-number-1.md",
+              "RelativeDocumentMoniker": "_publications\\2009-10-01-paper-title-number-1.md",
+              "ToolTip": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_publications\\2009-10-01-paper-title-number-1.md",
+              "RelativeToolTip": "_publications\\2009-10-01-paper-title-number-1.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-18T14:38:18.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "default.html",
+              "DocumentMoniker": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_layouts\\default.html",
+              "RelativeDocumentMoniker": "_layouts\\default.html",
+              "ToolTip": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_layouts\\default.html",
+              "RelativeToolTip": "_layouts\\default.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-06-18T14:55:17.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "2015-spring-teaching-2.md",
+              "DocumentMoniker": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_teaching\\2015-spring-teaching-2.md",
+              "RelativeDocumentMoniker": "_teaching\\2015-spring-teaching-2.md",
+              "ToolTip": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_teaching\\2015-spring-teaching-2.md",
+              "RelativeToolTip": "_teaching\\2015-spring-teaching-2.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-16T12:49:12.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "2014-spring-teaching-1.md",
+              "DocumentMoniker": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_teaching\\2014-spring-teaching-1.md",
+              "RelativeDocumentMoniker": "_teaching\\2014-spring-teaching-1.md",
+              "ToolTip": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_teaching\\2014-spring-teaching-1.md",
+              "RelativeToolTip": "_teaching\\2014-spring-teaching-1.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-16T12:49:08.099Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

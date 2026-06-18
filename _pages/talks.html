@@ -5,12 +5,117 @@ permalink: /talks/
 author_profile: true
 ---
 
+<style>
+  .talks {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .talk {
+    display: flex;
+    gap: 22px;
+    padding: 20px 0;
+    border-bottom: 1px solid #e3e3e3;
+  }
+
+  .talk:first-child {
+    border-top: 1px solid #e3e3e3;
+  }
+
+  .talk:last-child {
+    border-bottom: none;
+  }
+
+  .talk-year {
+    flex: none;
+    width: 52px;
+    padding-top: 1px;
+    font-size: 13px;
+    color: #6e6e6e;
+  }
+
+  .talk-body {
+    flex: 1;
+    min-width: 0;
+  }
+
+  .talk-title {
+    margin: 0 0 6px;
+    font-size: 17px;
+    font-weight: 700;
+    color: #1772d0;
+    line-height: 1.4;
+  }
+
+  .talk-authors {
+    margin: 0 0 4px;
+    font-size: 15px;
+  }
+
+  .talk-authors .me {
+    font-weight: 700;
+  }
+
+  .talk-venue {
+    margin: 0;
+    font-size: 14px;
+    font-style: italic;
+    color: #6e6e6e;
+  }
+
+  @media (max-width: 520px) {
+    .talk { flex-direction: column; gap: 4px; }
+    .talk-year { width: auto; font-weight: 500; }
+  }
+</style>
+
+<ul class="talks">
+
+  <li class="talk">
+    <span class="talk-year">2024</span>
+    <div class="talk-body">
+      <p class="talk-title">Reimagining Pixilation for Virtual Environments</p>
+      <p class="talk-authors"><span class="me">Salhofer, J.</span> &amp; Öhner, V.</p>
+      <p class="talk-venue">IConCMT 2024: International Conference on Creative Media/Technologies, St. Pölten, Austria. November 2024.</p>
+    </div>
+  </li>
+
+  <li class="talk">
+    <span class="talk-year">2023</span>
+    <div class="talk-body">
+      <p class="talk-title">Animating a Concept: Employing Stop-Motion and Puppetry Lenses for More-Than-Human Experiences</p>
+      <p class="talk-authors">Kirschner, F., <span class="me">Salhofer, J.</span>, &amp; Voegelin, L.</p>
+      <p class="talk-venue">Expanded Animation 2023, Linz, Austria. September 2023.</p>
+    </div>
+  </li>
+
+  <li class="talk">
+    <span class="talk-year">2023</span>
+    <div class="talk-body">
+      <p class="talk-title">Redefining Animated Frames for Virtual Environments</p>
+      <p class="talk-authors">Bruckner, F., &amp; <span class="me">Salhofer, J.</span></p>
+      <p class="talk-venue">Animafest Scanner IX: Symposium for Contemporary Animation Studies, Zagreb, Croatia. June 2023.</p>
+    </div>
+  </li>
+
+  <li class="talk">
+    <span class="talk-year">2022</span>
+    <div class="talk-body">
+      <p class="talk-title">Spatial Audio for Interactive Applications as a Control Element for Animations</p>
+      <p class="talk-authors"><span class="me">Salhofer, J.</span></p>
+      <p class="talk-venue">CAGA 2022: 6th Conference of AG Animation, Lucerne, Switzerland. November 2022.</p>
+    </div>
+  </li>
+
+</ul>
+
+<!--
 {% if site.talkmap_link == true %}
-
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
 {% endif %}
 
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
+-->

@@ -1,0 +1,173 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
+
+<style>
+  .projects {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .project {
+    display: flex;
+    gap: 22px;
+    padding: 20px 0;
+    border-bottom: 1px solid #e3e3e3;
+    align-items: flex-start;
+  }
+
+  .project:first-child {
+    border-top: 1px solid #e3e3e3;
+  }
+
+  .project:last-child {
+    border-bottom: none;
+  }
+
+  .project-thumb {
+    flex: none;
+    width: 110px;
+  }
+
+  .project-thumb a {
+    display: block;
+  }
+
+  .project-thumb img {
+    width: 110px;
+    height: 72px;
+    object-fit: cover;
+    display: block;
+    border-radius: 3px;
+    transition: opacity 0.15s ease;
+  }
+
+  .project-thumb a:hover img {
+    opacity: 0.8;
+  }
+
+  .project-body {
+    flex: 1;
+    min-width: 0;
+  }
+
+  .project-title {
+    margin: 0 0 6px;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 1.4;
+  }
+
+  .project-title a {
+    color: #1772d0;
+    text-decoration: none;
+  }
+
+  .project-title a:hover {
+    text-decoration: underline;
+  }
+
+  .project-title span {
+    color: #2b2b2b;
+  }
+
+  .project-desc {
+    margin: 0 0 4px;
+    font-size: 15px;
+    color: #2b2b2b;
+  }
+
+  .project-period {
+    margin: 0;
+    font-size: 14px;
+    font-style: italic;
+    color: #6e6e6e;
+  }
+
+  @media (max-width: 520px) {
+    .project { flex-direction: column; gap: 10px; }
+    .project-thumb, .project-thumb img { width: 100%; height: 160px; }
+  }
+</style>
+
+<ul class="projects">
+
+  <li class="project">
+    <div class="project-thumb">
+      <a href="https://research.ustp.at/en/projects/visualizing-aging-processes-of-oil-paintings-on-canvas-an-interactive-vr-approach" target="_blank">
+        <img src="/images/vapvr.jpg" alt="Visualizing Aging Processes of Oil Paintings on Canvas">
+      </a>
+    </div>
+    <div class="project-body">
+      <p class="project-title">
+        <a href="https://research.ustp.at/en/projects/visualizing-aging-processes-of-oil-paintings-on-canvas-an-interactive-vr-approach" target="_blank">
+          Visualizing Aging Processes of Oil Paintings on Canvas
+        </a>
+      </p>
+      <p class="project-desc">Developing an interactive VR framework to simulate environmental degradation of oil paintings, supporting conservation decision-making and empirical perception research.</p>
+      <p class="project-period">Jan 2026 – Dec 2028 &middot; funded by GFF</p>
+    </div>
+  </li>
+
+    <li class="project">
+    <div class="project-thumb">
+      <a href="https://www.donau-uni.ac.at/en/university/faculties/education-arts-architecture/departments/arts-cultural-studies/centers/cultures-and-technologies-of-collecting/research/ordiv.html" target="_blank">
+        <img src="/images/ordiv.jpg" alt="OrDiV">
+      </a>
+    </div>
+    <div class="project-body">
+      <p class="project-title">
+        <a href="https://www.donau-uni.ac.at/en/university/faculties/education-arts-architecture/departments/arts-cultural-studies/centers/cultures-and-technologies-of-collecting/research/ordiv.html" target="_blank">OrDiV – Art Experience in the (Post-)Digital Age</a>
+      </p>
+      <p class="project-desc">Investigating how the perception of original artworks differs from digital and virtual reproductions, in cooperation with Universität für Weiterbildung Krems and the Belvedere Research Center. Contribution includes high-fidelity photogrammetric reconstruction of exhibition spaces and VR integration for comparative user studies.</p>
+      <p class="project-period">Mar 2024 – Mar 2027 &middot; funded by FWF</p>
+    </div>
+  </li>
+
+  <li class="project">
+    <div class="project-thumb">
+      <a href="https://research.fhstp.ac.at/en/projects/vrinmotion" target="_blank">
+        <img src="/images/vrinmotion.jpg" alt="VRinMotion">
+      </a>
+    </div>
+    <div class="project-body">
+      <p class="project-title">
+        <a href="https://research.fhstp.ac.at/en/projects/vrinmotion" target="_blank">VRinMotion</a>
+      </p>
+      <p class="project-desc">Exploring how the characteristics of analogue stop-motion animation can be adapted and re-imagined within interactive VR environments, across four <em>ExperiMotion</em> experiments in collaboration with internationally established animation artists.</p>
+      <p class="project-period">Jan 2022 – Jun 2025 &middot; funded by FWF</p>
+    </div>
+  </li>
+
+  <li class="project">
+    <div class="project-thumb">
+      <a href="https://research.ustp.at/en/projects/vergonomix-iii" target="_blank">
+        <img src="/images/vergonomix.jpg" alt="VeRgonomiX">
+      </a>
+    </div>
+    <div class="project-body">
+      <p class="project-title">
+        <a href="https://research.ustp.at/en/projects/vergonomix-iii" target="_blank">VeRgonomiX</a>
+      </p>
+      <p class="project-desc">Motion capture data clean-up and editing to support ergonomics research in virtual environments.</p>
+      <p class="project-period">Sep 2020 – Feb 2024 &middot; funded by AUVA</p>
+    </div>
+  </li>
+
+</ul>
+
+
+<!--
+
+{% include base_path %}
+
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
+-->
+

@@ -1,0 +1,42 @@
+# .editorconfig - Jekyll / Academic Pages safe baseline
+
+root = true
+
+[*]
+charset = utf-8
+end_of_line = crlf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# Markdown files
+[*.md]
+trim_trailing_whitespace = false
+
+# YAML files (important for Jekyll front matter)
+[*.yml]
+charset = utf-8
+indent_style = space
+indent_size = 2
+
+[*.yaml]
+charset = utf-8
+indent_style = space
+indent_size = 2
+
+# HTML files (layouts, includes)
+[*.html]
+charset = utf-8
+indent_style = space
+indent_size = 2
+
+# JavaScript (optional, if your theme uses it)
+[*.js]
+charset = utf-8
+indent_style = space
+indent_size = 2
+
+# CSS
+[*.css]
+charset = utf-8
+indent_style = space
+indent_size = 2
