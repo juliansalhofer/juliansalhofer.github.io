@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the [Research Unit of Computer Graphics](https://www.cg.tuwien.ac.at/), [TU Wien](https://www.tuwien.ac.at/), and a university assistant (*prae-doc*) jointly at the [University of Applied Sciences St. Polten (USTP)](https://research.ustp.at/en) and the [University for Continuing Education Krems (UWK)](https://www.donau-uni.ac.at/en.html).
+I am a PhD student at the [Research Unit of Computer Graphics](https://www.cg.tuwien.ac.at/), [TU Wien](https://www.tuwien.ac.at/), and a university assistant (*prae-doc*) jointly at the [University of Applied Sciences St. Pölten (USTP)](https://research.ustp.at/en) and the [University for Continuing Education Krems (UWK)](https://www.donau-uni.ac.at/en.html).
 
 My work sits at the intersection of **computer graphics**, **virtual reality**, and **cultural heritage** -- combining technical development with artistic and empirical research.
 

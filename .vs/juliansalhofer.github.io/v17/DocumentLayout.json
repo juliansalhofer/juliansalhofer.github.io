@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_pages\\teaching.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_pages\\teaching.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_pages\\about.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_pages\\about.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_pages\\teaching.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_pages\\teaching.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_data\\navigation.yml||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -86,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
@@ -98,8 +98,7 @@
               "RelativeToolTip": "_data\\navigation.yml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2026-06-18T15:53:49.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-18T15:53:49.877Z"
             },
             {
               "$type": "Document",
@@ -111,8 +110,7 @@
               "RelativeToolTip": "_publications\\2024-03-01-interactive-impulses-vr.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAQAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-06-18T15:22:27.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-18T15:22:27.727Z"
             },
             {
               "$type": "Document",
@@ -124,8 +122,7 @@
               "RelativeToolTip": "_pages\\projects.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-06-18T15:18:18.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-18T15:18:18.428Z"
             },
             {
               "$type": "Document",
@@ -137,8 +134,7 @@
               "RelativeToolTip": "_publications\\2025-03-01-artistic-exploration-stop-motion-vr.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-06-18T15:14:34.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-18T15:14:34.503Z"
             },
             {
               "$type": "Document",
@@ -150,8 +146,7 @@
               "RelativeToolTip": "_publications\\2025-03-02-fragmenting-space-time-vr.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-06-18T15:13:17.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-18T15:13:17.621Z"
             },
             {
               "$type": "Document",
@@ -163,12 +158,11 @@
               "RelativeToolTip": "_pages\\talks.html",
               "ViewState": "AgIAAGYAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-06-17T08:38:18.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-17T08:38:18.122Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "teaching.html",
               "DocumentMoniker": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_pages\\teaching.html",
               "RelativeDocumentMoniker": "_pages\\teaching.html",
@@ -181,13 +175,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "about.md",
               "DocumentMoniker": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_pages\\about.md",
               "RelativeDocumentMoniker": "_pages\\about.md",
               "ToolTip": "C:\\Users\\jsalh\\Documents\\juliansalhofer.github.io\\_pages\\about.md",
               "RelativeToolTip": "_pages\\about.md",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAgAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-06-16T12:02:08.721Z",
               "EditorCaption": ""
@@ -202,8 +196,7 @@
               "RelativeToolTip": "_config.yml",
               "ViewState": "AgIAAEEAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2026-06-16T11:31:38.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-16T11:31:38.22Z"
             },
             {
               "$type": "Document",
@@ -215,8 +208,7 @@
               "RelativeToolTip": "_pages\\publications.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-06-18T14:41:33.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-18T14:41:33.741Z"
             },
             {
               "$type": "Document",
@@ -228,8 +220,7 @@
               "RelativeToolTip": "_publications\\2023-03-01-stop-motion-vr-spatialization.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAADyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-06-18T15:23:03.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-18T15:23:03.306Z"
             },
             {
               "$type": "Document",
@@ -241,8 +232,7 @@
               "RelativeToolTip": "_publications\\2015-10-01-paper-title-number-3.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-06-18T15:16:17.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-18T15:16:17.655Z"
             },
             {
               "$type": "Document",
@@ -254,8 +244,7 @@
               "RelativeToolTip": "_publications\\2025-06-08-paper-title-number-5.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-06-18T15:17:04.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-18T15:17:04.03Z"
             },
             {
               "$type": "Document",
@@ -267,8 +256,7 @@
               "RelativeToolTip": "_publications\\2010-10-01-paper-title-number-2.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-06-18T15:16:19.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-18T15:16:19.255Z"
             },
             {
               "$type": "Document",
@@ -280,8 +268,7 @@
               "RelativeToolTip": "_publications\\2024-02-17-paper-title-number-4.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-06-18T14:43:22.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-18T14:43:22.563Z"
             },
             {
               "$type": "Document",
@@ -293,8 +280,7 @@
               "RelativeToolTip": "_publications\\2009-10-01-paper-title-number-1.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-06-18T14:38:18.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-18T14:38:18.135Z"
             },
             {
               "$type": "Document",
@@ -306,8 +292,7 @@
               "RelativeToolTip": "_layouts\\default.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-06-18T14:55:17.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-18T14:55:17.689Z"
             },
             {
               "$type": "Document",
